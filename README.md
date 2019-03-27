@@ -1,2 +1,2 @@
 # tic-tac-toe
-It was created with C++ language using WinBGIm Library
+It was created with C language using WinBGIm Library
